@@ -6,7 +6,15 @@ This AI+1 book project follows the fourteen chapters supplied by Nik Bear Brown 
 
 ## Current state
 
-Blueprint scaffold prepared for human review. This is a book project and chapter plan, not a completed manuscript. No chapter prose, research findings, figures, or exports have been generated. No human gate has been signed.
+All fourteen chapters now have rough drafts, with hands-on design and conducting exercises, worked examples, Claude prompts, review checks, and twelve practice tasks per chapter. Author revision, publication fact-checking, figures, and exports remain pending.
+
+**[Read the chapters →](chapters/README.md)**
+
+- [Start with Chapter 1](chapters/01-creative-engineer.md)
+- [Claude and Figma MCP lab — Chapter 6](chapters/06-design-context.md)
+- [Research and source review](research/README.md)
+
+## Planning and provenance
 
 - [Book concept](book.md)
 - [Fourteen-chapter outline](outline.md)
@@ -17,4 +25,4 @@ Blueprint scaffold prepared for human review. This is a book project and chapter
 - [Build state and approval gates](STATUS.md)
 - [Supplied schedule](pantry/source-schedule.md)
 
-Read AI1.md, CONDUCTOR.md, and STATUS.md before continuing. Review Gate 0 before research; research approval precedes drafting. The author's rewrite remains human-only. Work in agent mode without API keys. No publication or course deployment is authorized by creating this project.
+The author approved the blueprint and authorized rough drafting from the research. These are first-pass chapters, not a finished textbook or proof that the proposed labs have been executed. Author rewrite and later AI+1 verification gates remain open. See STATUS.md.
