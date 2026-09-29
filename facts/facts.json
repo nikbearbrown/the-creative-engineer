@@ -1,1 +1,164 @@
-[]
+[
+  {
+    "fact_id": "figma-mcp-context",
+    "canonical": "Figma documents design-context retrieval through its MCP server.",
+    "domain": [
+      "agentic-experience-design"
+    ],
+    "stable": false,
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "human_note": null,
+    "consensus": "unverified",
+    "evidence": [
+      {
+        "source": "Figma — Figma MCP server: Introduction",
+        "url": "https://developers.figma.com/docs/figma-mcp-server/",
+        "verbatim": "Extract design context",
+        "retrieved": "2026-09-29",
+        "verdict": "SUPPORTS"
+      }
+    ],
+    "books": [
+      "the-creative-engineer"
+    ],
+    "category": "BASIC",
+    "expires": null
+  },
+  {
+    "fact_id": "figma-claude-code-setup",
+    "canonical": "Figma documents a remote MCP setup path for Claude Code.",
+    "domain": [
+      "agentic-experience-design"
+    ],
+    "stable": false,
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "human_note": null,
+    "consensus": "unverified",
+    "evidence": [
+      {
+        "source": "Figma — Set up the remote server",
+        "url": "https://developers.figma.com/docs/figma-mcp-server/remote-server-installation/",
+        "verbatim": "Manual setup for Claude Code",
+        "retrieved": "2026-09-29",
+        "verdict": "SUPPORTS"
+      }
+    ],
+    "books": [
+      "the-creative-engineer"
+    ],
+    "category": "BASIC",
+    "expires": null
+  },
+  {
+    "fact_id": "figma-education-verification",
+    "canonical": "Figma requires an existing account before applying for education status.",
+    "domain": [
+      "agentic-experience-design"
+    ],
+    "stable": false,
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "human_note": null,
+    "consensus": "unverified",
+    "evidence": [
+      {
+        "source": "Figma — Figma for Education",
+        "url": "https://help.figma.com/hc/en-us/articles/360041061214-Figma-for-Education",
+        "verbatim": "You need an existing Figma account before applying for education status.",
+        "retrieved": "2026-09-29",
+        "verdict": "SUPPORTS"
+      }
+    ],
+    "books": [
+      "the-creative-engineer"
+    ],
+    "category": "BASIC",
+    "expires": null
+  },
+  {
+    "fact_id": "agent-eval-outcome",
+    "canonical": "Anthropic distinguishes an agent transcript from its final environmental outcome.",
+    "domain": [
+      "agentic-experience-design"
+    ],
+    "stable": false,
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "human_note": null,
+    "consensus": "unverified",
+    "evidence": [
+      {
+        "source": "Anthropic — Demystifying evals for AI agents",
+        "url": "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents",
+        "verbatim": "The outcome is the final state in the environment at the end of the trial.",
+        "retrieved": "2026-09-29",
+        "verdict": "SUPPORTS"
+      }
+    ],
+    "books": [
+      "the-creative-engineer"
+    ],
+    "category": "BASIC",
+    "expires": null
+  },
+  {
+    "fact_id": "claude-mcp-trust",
+    "canonical": "Anthropic recommends trusting an MCP server before connecting it.",
+    "domain": [
+      "agentic-experience-design"
+    ],
+    "stable": false,
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "human_note": null,
+    "consensus": "unverified",
+    "evidence": [
+      {
+        "source": "Anthropic — Connect Claude Code to tools via MCP",
+        "url": "https://code.claude.com/docs/en/mcp",
+        "verbatim": "Verify you trust each server before connecting it.",
+        "retrieved": "2026-09-29",
+        "verdict": "SUPPORTS"
+      }
+    ],
+    "books": [
+      "the-creative-engineer"
+    ],
+    "category": "BASIC",
+    "expires": null
+  },
+  {
+    "fact_id": "author-neu-workflow",
+    "canonical": "Nik Bear Brown reports using his Northeastern account for the described workflow.",
+    "domain": [
+      "course-context"
+    ],
+    "stable": false,
+    "verified": false,
+    "verified_by": null,
+    "verified_at": null,
+    "human_note": "Direct author testimony is recorded as attributed context, not an independently observed student entitlement.",
+    "consensus": "unverified",
+    "evidence": [
+      {
+        "source": "Nik Bear Brown, user message in this task",
+        "url": null,
+        "verbatim": "Everything I do is through that account",
+        "retrieved": "2026-09-29",
+        "verdict": "SUPPORTS"
+      }
+    ],
+    "books": [
+      "the-creative-engineer"
+    ],
+    "category": "BASIC",
+    "expires": null
+  }
+]

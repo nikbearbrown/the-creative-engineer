@@ -1,15 +1,15 @@
 # Build State and Gate Sign-offs
 
 **Book:** The Creative Engineer
-**Current phase:** 0 — BLUEPRINT
+**Current phase:** 1 — RESEARCH
 **Last updated:** 2026-09-29
 
-The scaffold synthesizes the author's supplied schedule and course discussion. Chapter prose has not been drafted. All generated planning artifacts await human review. AI1.md governs: no agent signs any gate, including where a downstream template suggests otherwise.
+The author approved the blueprint in chat on 2026-09-29. This file records that human decision, not an agent's independent sign-off. Chapter prose has not been drafted. AI1.md governs all subsequent gates.
 
 ## Spine
 
-- [ ] GATE 0 — TOC and blueprint approved. Human signature: pending. Review book.md, vision.md, architecture.md, chapters-spec.md, risks.md, outline.md, and facts/facts.json. Confirm the proposed continuing example and chapter anatomy.
-- [ ] GATE 1 — Sources solid. Research not started.
+- [x] GATE 0 — TOC and blueprint approved by Nik Bear Brown, 2026-09-29, explicit chat reply: “approved”. Approval provenance and scope: pantry/blueprint-approval.md. The facts dictionary was empty at approval.
+- [ ] GATE 1 — Sources solid. Fourteen research packets, source register, playlist experiment mapping, and fact candidates prepared; awaiting Nik Bear Brown's approval. Review research/README.md. No chapter drafting yet.
 - [ ] GATE 2 — Full draft exists. Drafting not started.
 - [ ] GATE 3 — Author rewrite and sign-off. HUMAN ONLY.
 - [ ] GATE 4 — Claims verified. Not started.
@@ -18,4 +18,4 @@ The scaffold synthesizes the author's supplied schedule and course discussion. C
 
 ## Next action
 
-Human review of the blueprint. No research or chapter drafting until Gate 0 is signed. The supplied chapter sequence is treated as author intent, not as approval of newly generated planning details. No optional editions selected.
+Human review of research/README.md and its linked packets. On Gate 1 approval, draft all fourteen chapters in the requested Pragmatist voice. Bear confirms NEU Claude is his working account; the Figma for Educational AI playlist investigates Education-account capabilities and limits. No optional edition is requested.

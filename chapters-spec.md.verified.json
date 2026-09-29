@@ -1,9 +1,9 @@
 {
   "artifact": "chapters-spec.md",
   "phase": "blueprint",
-  "verified": false,
-  "verified_by": "",
-  "verified_at": "",
-  "note": "",
-  "sha256": ""
+  "verified": true,
+  "verified_by": "Nik Bear Brown (explicit chat approval)",
+  "verified_at": "2026-09-29",
+  "note": "User replied approved to the blueprint review. Agent records that human decision; no independent agent approval. See pantry/blueprint-approval.md.",
+  "sha256": "4b62726555e6a5e0ca5a6a66cdafd65a2d2739194e6323bef80742c05cf934ea"
 }
