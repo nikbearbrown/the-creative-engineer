@@ -1,0 +1,4 @@
+# Practice Exercises configuration
+skip_chapters: ["00-frontmatter", "99-back-matter"]   # not real chapters
+output_dir: "editions/exercises"
+cumulative_review: true     # add a Cumulative Review block from chapter 3 onward

@@ -1,0 +1,9 @@
+{
+  "artifact": "facts.json",
+  "phase": "facts",
+  "verified": false,
+  "verified_by": null,
+  "verified_at": null,
+  "note": "this book's fact dictionary; conflicts are the human review queue",
+  "sha256": null
+}

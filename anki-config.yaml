@@ -1,0 +1,7 @@
+# Anki deck configuration
+deck_name: ""          # defaults to repo directory name if empty
+audio: false           # ElevenLabs audio is OFF by default; set true to enable (needs ELEVENLABS_API_KEY)
+elevenlabs_voice_id: "21m00Tcm4TlvDq8ikWAM"   # ElevenLabs Rachel voice (used only when audio: true)
+cards_per_chapter_target: 10
+skip_chapters: []      # list of chapter filename stems to skip (e.g. 00-frontmatter, 99-back-matter)
+test_chapter: ""       # chapter --test uses; empty = first real content chapter

@@ -1,0 +1,14 @@
+{
+  "name": "the-creative-engineer",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "The Creative Engineer — an AI+1 book project",
+  "scripts": {
+    "verify:status": "python3 scripts/verify.py status"
+  },
+  "dependencies": {
+    "sharp": "^0.33.0",
+    "glob": "^10.0.0"
+  }
+}

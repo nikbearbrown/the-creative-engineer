@@ -1,0 +1,4 @@
+# Chapter Quizzes configuration
+skip_chapters: ["00-frontmatter", "99-back-matter"]   # not real chapters
+output_dir: "editions/quizzes"
+interleave_review: true     # include spaced review items from prior chapters

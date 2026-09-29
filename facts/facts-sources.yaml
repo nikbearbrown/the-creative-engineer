@@ -1,0 +1,13 @@
+# Source trust tiers. Weights are deferred ("later more formal rules") — tiers only for now.
+# tier: trusted | solid | low
+sources:
+  openstax:  {tier: trusted, publisher: openstax}   # vetted, peer-reviewed open textbooks
+  textbook:  {tier: trusted, publisher: null}
+  pubmed:    {tier: solid,   publisher: null}        # indexed biomedical literature
+  journal:   {tier: solid,   publisher: null}
+  wikipedia: {tier: solid,   publisher: wikimedia}   # tertiary but curated — good for breadth & corroboration, NOT primary authority
+  web:       {tier: low,     publisher: null}         # general web search result — cite, low weight
+  claude:    {tier: low,     publisher: anthropic}   # AI-PROPOSED candidate ONLY — never authoritative alone (see CONTRIBUTING.md)
+  ai:        {tier: low,     publisher: null}          # any other model — same rule: candidate, must be corroborated or expert-signed
+  social:    {tier: low,     publisher: null}          # e.g. Twitter/X — lowest trust
+  unknown:   {tier: low,     publisher: null}
