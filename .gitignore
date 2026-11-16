@@ -11,3 +11,5 @@ __pycache__/
 
 # generated instruction adapters (rebuild from instructions/)
 instructions/.build/
+# Reference pantries are local-only; never publish them.
+**/[Pp][Aa][Nn][Tt][Rr][Yy]/
